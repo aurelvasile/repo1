@@ -1,0 +1,2 @@
+testVar = "abc"
+print(testVar)
